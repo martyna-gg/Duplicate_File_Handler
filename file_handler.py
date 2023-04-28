@@ -2,8 +2,6 @@ import os
 import sys
 import hashlib
 
-# some comment added
-
 args = sys.argv  # take directory as an argument
 if len(args) == 1:
     print("Directory is not specified")
