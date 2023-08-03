@@ -1,3 +1,3 @@
 # Duplicate_File_Handler
 
-Moje pierwsze repo
+A program for detecting and removing duplicate files with usage of os.walk and hashlib tools
